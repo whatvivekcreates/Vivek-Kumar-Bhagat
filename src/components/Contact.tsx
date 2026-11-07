@@ -59,16 +59,16 @@ export function Contact() {
   };
 
   const contactInfo = [
-    { icon: Mail, label: "Email", value: "kunjd2803@gmail.com" },
-    { icon: Phone, label: "Phone", value: "+91 8758209508" },
-    { icon: MapPin, label: "Location", value: "Surat, Gujarat, India" },
+    { icon: Mail, label: "Email", value: "vivek6203092@gmail.com" },
+    { icon: Phone, label: "Phone", value: "+91 6203092181" },
+    { icon: MapPin, label: "Location", value: "Godda, Jharkhand, India" },
   ];
 
   const quickLinks = [
-    { icon: Github, url: "https://github.com/kunj2803" },
-    { icon: Linkedin, url: "https://www.linkedin.com/in/kunj-desai-07717b293/" },
-    { icon: Mail, url: "mailto:kunjd2803@gmail.com" },
-    { icon: MessageCircle, url: "https://wa.me/+918758209508" },
+    { icon: Github, url: "https://github.com/whatvivekcreates" },
+    { icon: Linkedin, url: "https://www.linkedin.com/in/vivek-kumar-bhagat-07717b293/" },
+    { icon: Mail, url: "mailto:vivek6203092@gmail.com" },
+    { icon: MessageCircle, url: "https://wa.me/+916203092181" },
     { icon: Instagram, url: "https://www.instagram.com/kunj_2834/" },
   ];
 

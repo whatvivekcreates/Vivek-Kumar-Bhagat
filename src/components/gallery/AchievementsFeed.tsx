@@ -12,7 +12,7 @@ export function AchievementsFeed() {
       img: "/gallery/Achievements/techlead.png",
     },
     {
-      title: "Qualified for TCS CodeVita Seasone 13 2025",
+      title: "Qualified for TCS CodeVita Seasone 13 2026",
       img: "./TCS.jpg",
     },
   ];

@@ -7,7 +7,7 @@ const FRIENDS = [
     img: "./santosh.jpg",
     role: "SDET | QA Engineer",
     link: "https://www.linkedin.com/in/santoshkrsah/",
-    intro: `AI-ML Engineer designing intelligent systems that solve real problems, efficiently and elegantly.`
+    intro: `Full Stack QA Engineer. Passionate about testing, automation, and ensuring software quality.`
   },
   {
     name: "Prapti Mehta",

@@ -65,7 +65,7 @@ export function Resume() {
             transition={{ duration: 0.6 }}
             className="profile-name"
           >
-            Kunj D. Desai
+            Vivek Kumar Bhagat
           </motion.h3>
 
           <motion.p
@@ -76,8 +76,8 @@ export function Resume() {
             className="profile-info"
           >
             📚 B.Tech — Artificial Intelligence & Data Science<br />
-            📍 Surat, Gujarat, India<br />
-            📩 kunjd2803@gmail.com | 📱 +91 8758209508
+            📍 Godda, Jharkhand, India<br />
+            📩 vivek6203092@gmail.com | 📱 +91 6203092181
           </motion.p>
 
           <motion.p

@@ -18,7 +18,7 @@ const PROJECTS = [
     ss: "/mentalhealth.jpg",
     tech: ["Python", "Transformers", "NLTK", "scikit-learn"],
     live: "https://mental-health-analyzer.streamlit.app/",
-    code: "https://github.com/kunj2803/Mental-Health-Analyzer",
+    code: "https://github.com/whatvivekcreates/Mental-Health-Analyzer",
   },
   {
     title: "🤖 Indian Sign Language Interpreter",
@@ -34,7 +34,7 @@ const PROJECTS = [
     ss: "/portfolio.jpg",
     tech: ["React", "Framer Motion", "Tailwind CSS"],
     live: "https://kunj-desai.vercel.app/",
-    code: "https://github.com/kunj2803/Kunj-Portfolio",
+    code: "https://github.com/whatvivekcreates/Kunj-Portfolio",
   },
   {
     title: "💬 DocuChat – Gemini AI Chatbot",
@@ -42,7 +42,7 @@ const PROJECTS = [
     ss: "/Docuchat.png",
     tech: ["Gemini API", "LangChain", "Python", "Streamlit"],
     live: "https://docuchat-chatbot.streamlit.app/",
-    code: "https://github.com/kunj2803/Docuchat-Chatbot",
+    code: "https://github.com/whatvivekcreates/Docuchat-Chatbot",
   },
   {
     title: "📊 ProfileX – Data Profiler",
