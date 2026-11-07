@@ -3,10 +3,10 @@ import "./Team.css";
 
 const FRIENDS = [
   {
-    name: "Bhavya Bavisi",
-    img: "./bhavya.jpg",
-    role: "AI | Backend Developer",
-    link: "https://www.linkedin.com/in/bhavya-bavisi-61a592281/?originalSubdomain=in",
+    name: "Santosh Kumar",
+    img: "./santosh.jpg",
+    role: "SDET | QA Engineer",
+    link: "https://www.linkedin.com/in/santoshkrsah/",
     intro: `AI-ML Engineer designing intelligent systems that solve real problems, efficiently and elegantly.`
   },
   {

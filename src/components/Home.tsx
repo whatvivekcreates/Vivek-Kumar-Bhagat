@@ -25,16 +25,16 @@ export function Home({ theme }: HeroProps) {
   ];
 
   const connectLinks = [
-    { img: linkedinLogo, link: "https://www.linkedin.com/in/kunj-desai-07717b293/" },
-    { img: gmailLogo, link: "mailto:kunjd2803@gmail.com" },
-    { img: whatsappLogo, link: "https://wa.me/+918758209508" },
-    { img: instagramLogo, link: "https://www.instagram.com/kunj_2834/" },
-    { img: facebookLogo, link: "https://www.facebook.com/kunj.desai.222608" },
+    { img: linkedinLogo, link: "https://www.linkedin.com/in/vivek-kumar-bhagat/" },
+    { img: gmailLogo, link: "mailto:vivek6203092@gmail.com" },
+    { img: whatsappLogo, link: "https://wa.me/+916203092181" },
+    { img: instagramLogo, link: "https://www.instagram.com/vivek_kumar_bhagat/" },
+    { img: facebookLogo, link: "https://www.facebook.com/vivek.kumar.bhagat" },
   ];
 
   const workLinks = [
-    { img: githubLogo, link: "https://github.com/kunj2803" },
-    { img: leetcodeLogo, link: "https://leetcode.com/u/Kunj_2803" },
+    { img: githubLogo, link: "https://github.com/whatvivekcreates" },
+    { img: leetcodeLogo, link: "https://leetcode.com/u/vivek_kumar_bhagat" },
   ];
 
   const [typedRoles, setTypedRoles] = useState("");
@@ -97,9 +97,9 @@ export function Home({ theme }: HeroProps) {
 
         <motion.div className="hero-info" variants={itemVariants}>
           {[
-            { label: "📍 Location", value: "Surat, Gujarat, India" },
+            { label: "📍 Location", value: "Godda, Jharkhand, India" },
             { label: "💼 Expertise", value: "AI/ML, Problem Solving" },
-            { label: "📞 Contact", value: "kunjd2803@gmail.com" },
+            { label: "📞 Contact", value: "vivek6203092@gmail.com" },
           ].map((info, i) => (
             <motion.div key={i} className="info-card" whileHover={{ scale: 1.05, y: -3 }} variants={itemVariants}>
               <h4>{info.label}</h4>
