@@ -73,7 +73,7 @@ export function Home({ theme }: HeroProps) {
       <motion.div className="hero-content" variants={containerVariants} initial="hidden" animate="visible">
         <motion.h1 className="hero-name" variants={itemVariants}>
           Hi! I’m <br />
-          <span className="gradient-text hero-name-line">KUNJ DESAI</span>
+          <span className="gradient-text hero-name-line">Vivek Kumar</span>
           <motion.div className="hero-line" variants={itemVariants} />
         </motion.h1>
 

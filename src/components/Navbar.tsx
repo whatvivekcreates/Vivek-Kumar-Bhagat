@@ -50,7 +50,7 @@ export function Navbar() {
             {/* Name + Subtitle */}
             <div className="flex flex-col">
               <span className="text-gray-900 dark:text-white font-semibold text-base md:text-lg">
-                Kunj Desai
+                Vivek Kumar Bhagat
               </span>
               <span className="text-blue-500 dark:text-purple-100 font-medium text-sm md:text-base">
                 ML • AI • Developer

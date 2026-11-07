@@ -185,7 +185,7 @@ export function About() {
               </h2>
 
               <p>
-                I’m Kunj Desai, a tech-driven learner passionate about building real-world solutions.
+                I’m Vivek Kumar Bhagat, a tech-driven learner passionate about building real-world solutions.
                 I enjoy exploring AI, machine learning, and innovative software development.
                 I’m eager to contribute my skills and grow in a challenging professional environment.
               </p>
