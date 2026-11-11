@@ -10,10 +10,10 @@ const FRIENDS = [
     intro: `Full Stack QA Engineer. Passionate about testing, automation, and ensuring software quality.`
   },
   {
-    name: "Prapti Mehta",
-    img: "./prapti.jpg",
+    name: "Puja Kumari",
+    img: "./puja.jpg",
     role: "Frontend + UI Designer",
-    link: "https://praptiwebsite.netlify.app",
+    link: "https://www.linkedin.com/in/puja-kumari-468622354/",
     intro: `Crafting intelligent systems, decoding data, and solving real-world problems with purpose.`
   }
 ];
