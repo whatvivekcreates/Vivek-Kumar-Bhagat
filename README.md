@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**,**Figma for Design** and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [Vikek kr](https://vivekkumarbhagat.vercel.app/)
+🌐 **Visit My Website:** [Vikek kr](https://vivekbhagat.vercel.app/)
 
 🖼️ **Screenshots**
 
@@ -42,7 +42,7 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/
+git clone https://github.com/whatvivekcreates/Vivek-Kumar-Bhagat.git
 
 # 2️⃣ Navigate to project directory
 cd <Your path name>
