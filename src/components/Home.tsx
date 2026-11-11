@@ -25,16 +25,16 @@ export function Home({ theme }: HeroProps) {
   ];
 
   const connectLinks = [
-    { img: linkedinLogo, link: "https://www.linkedin.com/in/vivek-kumar-bhagat/" },
+    { img: linkedinLogo, link: "https://www.linkedin.com/in/vivek-kumar-bhagat-9a076a357/" },
     { img: gmailLogo, link: "mailto:vivek6203092@gmail.com" },
     { img: whatsappLogo, link: "https://wa.me/+916203092181" },
-    { img: instagramLogo, link: "https://www.instagram.com/vivek_kumar_bhagat/" },
+    { img: instagramLogo, link: "https://www.instagram.com/whatvivekcreates/" },
     { img: facebookLogo, link: "https://www.facebook.com/vivek.kumar.bhagat" },
   ];
 
   const workLinks = [
     { img: githubLogo, link: "https://github.com/whatvivekcreates" },
-    { img: leetcodeLogo, link: "https://leetcode.com/u/vivek_kumar_bhagat" },
+    { img: leetcodeLogo, link: "https://leetcode.com/u/vivek6203092/" },
   ];
 
   const [typedRoles, setTypedRoles] = useState("");

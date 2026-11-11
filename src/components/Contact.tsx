@@ -66,10 +66,10 @@ export function Contact() {
 
   const quickLinks = [
     { icon: Github, url: "https://github.com/whatvivekcreates" },
-    { icon: Linkedin, url: "https://www.linkedin.com/in/vivek-kumar-bhagat-07717b293/" },
+    { icon: Linkedin, url: "https://www.linkedin.com/in/vivek-kumar-bhagat-9a076a357/" },
     { icon: Mail, url: "mailto:vivek6203092@gmail.com" },
     { icon: MessageCircle, url: "https://wa.me/+916203092181" },
-    { icon: Instagram, url: "https://www.instagram.com/kunj_2834/" },
+    { icon: Instagram, url: "https://www.instagram.com/whatvivekcreates/" },
   ];
 
   return (

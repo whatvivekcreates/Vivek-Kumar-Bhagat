@@ -4,9 +4,9 @@ import { Github, Linkedin, Twitter, Instagram, Mail } from 'lucide-react';
 export function FloatingNav() {
   const socialLinks = [
     { icon: Github, href: 'https://github.com/whatvivekcreates/Vivek-Kumar-Bhagat', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://www.linkedin.com/in/vivek-kumar-bhagat/', label: 'LinkedIn' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/vivek-kumar-bhagat-9a076a357/', label: 'LinkedIn' },
     { icon: Twitter, href: '#', label: 'Twitter' },
-    { icon: Instagram, href: 'https://www.instagram.com/vivek_kumar_bhagat/', label: 'Instagram' },
+    { icon: Instagram, href: 'https://www.instagram.com/whatvivekcreates/', label: 'Instagram' },
     { 
       icon: () => (
         <svg viewBox="0 0 24 24" className="w-5 h-5" fill="currentColor">

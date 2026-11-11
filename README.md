@@ -63,7 +63,7 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
 * 📧 **Email:** [vivek6203092@gmail.com](mailto:vivek6203092@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/vivek](https://www.linkedin.com/in/viviek)
+* 💼 **LinkedIn:** [linkedin.com/in/vivek-kumar-bhagat-9a076a357](https://www.linkedin.com/in/vivek-kumar-bhagat-9a076a357/)
 
 ---
 
@@ -82,4 +82,3 @@ Feel free to fork, use, and build upon it ⭐
 ---
 
 > *“Showcasing my work and passion through technology 💻”*
-

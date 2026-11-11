@@ -52,7 +52,7 @@ export default function IntroVideo({ onFinish }: { onFinish?: () => void }) {
           transition={{ duration: 1.4, ease: "easeOut" }}
           className="intro-title"
         >
-          Welcome to My World
+          Eat Sleep Code Repeat 👨‍💻
         </motion.h1>
 
         <div className="intro-progress">
