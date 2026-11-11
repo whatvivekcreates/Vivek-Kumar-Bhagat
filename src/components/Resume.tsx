@@ -125,22 +125,22 @@ export function Resume() {
           <div className="resume-list">
             {[
               {
-                degree: "B.Tech in Artificial Intelligence & Data Science",
-                school: "S.C.E.T — Sarvajanik University, Surat",
-                period: "2022 – 2026",
-                detail: "Current GPA: 9.0",
+                degree: "B.Tech in computer Science & Engineering",
+                school: "Indraprastha University, Guru Tegh Bahadur Institute of Technology, Delhi",
+                period: "2024 – 2028",
+                detail: "Current CGPA: 8.0",
               },
               {
                 degree: "Higher Secondary (12th)",
-                school: "RSM Poonawala School",
-                period: "2020 – 2022",
-                detail: "78%",
+                school: "JVM shayamali, Ranchi",
+                period: "2022 – 2024",
+                detail: "Obtained: 64%",
               },
               {
                 degree: "Secondary (10th)",
-                school: "Ambika Niketan School",
-                period: "2019 – 2020",
-                detail: "85%",
+                school: "Ramakrishna vivekananda vidya mandir, deoghar",
+                period: "2020 – 2022",
+                detail: "Obtained: 93.8%",
               },
             ].map((edu, i) => (
               <motion.div
